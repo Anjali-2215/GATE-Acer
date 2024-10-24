@@ -31,6 +31,7 @@ The GATE Acer is a React-based web application designed to assist GATE aspirants
 
 ## Project Structure
 plaintext
+```
 gate-planner/
 │
 ├── src/                   # Source files for the application
@@ -51,7 +52,7 @@ gate-planner/
 ├── .gitignore             # Specifies intentionally untracked files to ignore
 ├── package.json           # Manages project metadata and dependencies
 └── README.md              # Comprehensive project documentation
-
+```
 
 ## Usage
 After installation, open your browser and go to http://localhost:3000 to start using the app. You can add, remove, and move tasks on the Kanban board, view the calendar, enter study plans into the schedule table, and view your overall progress in the workflow graph.
